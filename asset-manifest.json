@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/firebase-movie-app-react-tailwind/static/css/main.41cc75d0.css",
-    "main.js": "/firebase-movie-app-react-tailwind/static/js/main.d3af3128.js",
+    "main.css": "/firebase-movie-app-react-tailwind/static/css/main.14f5fb1b.css",
+    "main.js": "/firebase-movie-app-react-tailwind/static/js/main.d858e9e1.js",
     "index.html": "/firebase-movie-app-react-tailwind/index.html",
-    "main.41cc75d0.css.map": "/firebase-movie-app-react-tailwind/static/css/main.41cc75d0.css.map",
-    "main.d3af3128.js.map": "/firebase-movie-app-react-tailwind/static/js/main.d3af3128.js.map"
+    "main.14f5fb1b.css.map": "/firebase-movie-app-react-tailwind/static/css/main.14f5fb1b.css.map",
+    "main.d858e9e1.js.map": "/firebase-movie-app-react-tailwind/static/js/main.d858e9e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.41cc75d0.css",
-    "static/js/main.d3af3128.js"
+    "static/css/main.14f5fb1b.css",
+    "static/js/main.d858e9e1.js"
   ]
 }
