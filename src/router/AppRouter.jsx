@@ -15,6 +15,10 @@ const AppRouter = () => {
         <Route path="/" element={<Main />} />
         <Route path="/firebase-movie-app-react-tailwind/" element={<Main />} />
         <Route path="/login" element={<Login />} />
+        <Route
+          path="/https://ozkankomu.github.io/firebase-movie-app-react-tailwind/login"
+          element={<Login />}
+        />
         <Route path="/register" element={<Register />} />
         <Route path="/details/:id" element={<PrivateRouter />}>
           <Route path="" element={<MovieDetail />} />
