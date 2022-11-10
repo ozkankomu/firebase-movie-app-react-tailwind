@@ -13,6 +13,7 @@ const AppRouter = () => {
       <Navbar />
       <Routes>
         <Route path="/" element={<Main />} />
+        <Route path="/firebase-movie-app-react-tailwind/" element={<Main />} />
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
         <Route path="/details/:id" element={<PrivateRouter />}>
