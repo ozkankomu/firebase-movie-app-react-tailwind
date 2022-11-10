@@ -3,6 +3,7 @@ import { Navigate, Outlet } from "react-router-dom";
 import { AuthContext } from "../context/AuthContextProvider";
 
 const PrivateRouter = () => {
+  console.log("router calıstı");
   const { currentUser } = useContext(AuthContext);
   return currentUser ? <Outlet /> : <Navigate to="/login" replace />;
 };
