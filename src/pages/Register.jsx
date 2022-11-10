@@ -38,7 +38,7 @@ const Register = () => {
         <img
           src="https://picsum.photos/800/800"
           alt="sample-movie"
-          className="object-cover h-screen w-full"
+          className="object-cover h-screen w-full rounded-full"
         />
       </div>
       <div className="overflow-hidden flex-1 h-screen justify-center items-center dark:bg-[#23242a]">
