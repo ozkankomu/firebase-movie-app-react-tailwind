@@ -19,12 +19,12 @@ const Login = () => {
   };
 
   return (
-    <div className="flex justify-center">
+    <div className="flex justify-center align-middle">
       <div className="form-image hidden md:block rounded-full">
         <img
           src="https://picsum.photos/800/800"
           alt="sample-movie"
-          className="object-cover h-screen w-full"
+          className="object-cover  w-5/6 my-5 mx-auto  rounded-full"
         />
       </div>
       <div className="overflow-hidden flex-1 h-screen justify-center items-center dark:bg-[#23242a]">
