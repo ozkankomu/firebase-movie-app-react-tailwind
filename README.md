@@ -1,11 +1,11 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/ozkankomu/" target="_blank"><img src="photo1.png" alt="screenshot" target=_blanked></a>
+</p>
 
-# Project-006 : Movie App (RP-06)
 
-## Description
 
-Project aims to create a Movie App.
+
+Movie App.
 
 ## Problem Statement
 
