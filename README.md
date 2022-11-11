@@ -82,7 +82,7 @@ Build a Movie App using ReactJS.
 
 ## Screenshot
 <p align="left">
-<a href="https://ozkankomu.github.io/recipe_app_react_styled_components/"><img src="firebase-create-app.gif" alt="screenshot" target=_blanked></a>
+<a href="https://ozkankomu.github.io/firebase-movie-app-react-tailwind/"><img src="screen.gif" alt="screenshot" target=_blanked></a>
 </p>
 
 
