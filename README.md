@@ -4,12 +4,21 @@
 
 
 
+## Table of contents
 
-Movie App.
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Project Skeleton ](#project-skeleton)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
+  - [Author](#author)
 
-## Problem Statement
 
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
+
+## The challenge
+In this project I made with React, I wanted to make a movie site where Login and Google login processes are made using firebase. I got the movie info and trailers from "https://www.themoviedb.org/documentation/api". I used Tailwind for styling css. I added Night (dark) mode and Day (Light) mode.
+
 
 ## Project Skeleton
 
@@ -64,23 +73,20 @@ Build a Movie App using ReactJS.
 
 - ReactJS
 
-### At the end of the project, students will be able to;
-
-- improve coding skills within HTML & CSS & JS & ReactJS.
-
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ## Steps to Solution
 
-- Before start you can watch these tutorials:
-  - https://www.youtube.com/watch?v=9bXhf_TELP4
-  - https://www.youtube.com/watch?v=vDT7EnUpEoo
-- Step 1 : Create React App using `npx create-react-app movie-app` and install firebase `npm i firebase` / `yarn add firebase`
 
 - Step 2 : Signup `https://firebase.google.com/` and create new app in firebase.
   Firebase is a backed application development software that enables developers to develop iOS, Android and Web apps. It provides developers with a variety of tools and services to help them develop quality apps, grow their user base, and earn profit. It is built on Google’s infrastructure. Firebase offers a number of services, including: analytics,authentication, cloud messaging, realtime database, performance and test lab. Firebase is categorized as a NoSQL database program, which stores data in JSON-like documents.
 
-![Project 005 Snapshot](firebase-create-app.gif)
+## Screenshot
+<p align="left">
+<a href="https://ozkankomu.github.io/recipe_app_react_styled_components/"><img src="firebase-create-app.gif" alt="screenshot" target=_blanked></a>
+</p>
+
+
+
 
 - Step 3 : Use `https://firebase.google.com/docs/auth/web/start` and create `Authentication` operations.
   - Add the Firebase Authentication JS codes in your `firebase.js` file and initialize Firebase Authentication:
@@ -198,12 +204,6 @@ sendPasswordResetEmail(auth, email)
 
 - Step 4 : Signup `https://www.themoviedb.org/documentation/api` and get API key. In order to get data use `https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY}`, to search movies use `https://api.themoviedb.org/3/search/movie?api_key=${API_KEY}&query=`, to get movie details use `https://api.themoviedb.org/3/movie/${id}?api_key=${API_KEY}` and to get video key use `https://api.themoviedb.org/3/movie/${id}/videos?api_key=${API_KEY}`. Use `https://image.tmdb.org/t/p/w1280${poster_path}` for image `src`.
 
-- Step 5: You can use css frameworks like Bootstrap, Semantic UI, Material UI.
 
-- Step 6: Add project gif to your project and README.md file.
-
-## Notes
-
-- You can add additional functionalities to your app.
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
