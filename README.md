@@ -2,8 +2,6 @@
 <a href="https://www.linkedin.com/in/ozkankomu/" target="_blank"><img src="photo1.png" alt="screenshot" target=_blanked></a>
 </p>
 
-
-
 ## Table of contents
 
   - [The challenge](#the-challenge)
@@ -13,8 +11,6 @@
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
   - [Author](#author)
-
-
 
 ## The challenge
 In this project I made with React, I wanted to make a movie site where Login and Google login processes are made using firebase. I got the movie info and trailers from "https://www.themoviedb.org/documentation/api". I used Tailwind for styling css. I added Night (dark) mode and Day (Light) mode.
